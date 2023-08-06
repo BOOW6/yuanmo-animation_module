@@ -1,0 +1,7 @@
+id=yuanmo-animation_module
+name=Yuanmo Boot Animation
+version=v1.0
+versionCode=1
+author=BOOW6
+description=Systemlessly replacing Oppo boot animation with Yuanmo
+minMagisk=19000
