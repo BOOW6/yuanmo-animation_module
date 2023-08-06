@@ -1,1 +1,1 @@
-mv -r ./my_product/media/bootanimation /my_product/media/bootanimation
+cp -rvf ./my_product/media/bootanimation /my_product/media/bootanimation
